@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "crypt": "^0.0.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.1.1",
+    "resend": "^6.6.0"
+  }
+}
